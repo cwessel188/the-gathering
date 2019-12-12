@@ -9,17 +9,13 @@
 1 Leonin Shikari
 1 Leonin Relic-Warder
 1 Trained Caracal
-1 Wily Bandar
 1 Felidar Cub
-1 Oreskos Explorer
 1 Enlightened Ascetic
 1 Ajani's Sunstriker
 1 Felidar Sovereign
 1 Whitemane Lion
 1 Fleecemane Lion
-1 Regal Caracal
 1 Seht's Tiger
-1 Taj-Nar Swordsmith
 1 Balan, Wandering Knight
 1 Nazahn, Revered Bladesmith
 1 Skyhunter Skirmisher
@@ -31,7 +27,6 @@
 1 Conqueror's Flail
 1 Fireshrieker
 1 Loxodon Warhammer
-1 Behemoth Sledge
 1 Lightning Greaves
 1 Swiftfoot Boots
 1 Sword of Feast and Famine
@@ -41,12 +36,10 @@
 1 Sword of Vengeance
 1 Sword of the Animist
 1 Hammer of Nazahn
-1 Heirloom Blade
 1 Argentum Armor
 1 Rancor
 1 Greater Good
 1 Aura Shards
-1 Mirari's Wake
 1 Land Tax
 1 Sol Ring
 1 Mana Crypt
@@ -55,11 +48,8 @@
 1 Enlightened Tutor
 1 Swords to Plowshares
 1 Path to Exile
-1 Relic Crush
 1 Hunter's Prowess
-1 Harmonize
 1 Soul's Majesty
-1 Search for Tomorrow
 1 Ancient Tomb
 1 Bountiful Promenade
 1 Brushland
@@ -81,9 +71,20 @@
 1 Mosswort Bridge
 1 Strip Mine
 1 Selesnya Sanctuary
-7 Forest
-6 Plains
+5 Forest
+7 Plains
 1 Duelist's Heritage
 1 Umezawa's Jitte
-1 Wooded Bastion
+1 Charmed Stray
+1 Angelic Destiny
+1 Sword of Sinew and Steel
+1 Keeper of Fables
+1 Return of the Wildspeaker
+1 Force of Vigor
+1 Windswept Heath
+1 Palace Jailer
+1 Nahiri, the Lithomancer
+1 Regal Caracal
+1 Sungrass Prairie
+1 Gods Willing
 SB: 1 Arahbo, Roar of the World
