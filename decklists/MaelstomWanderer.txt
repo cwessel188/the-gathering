@@ -1,0 +1,95 @@
+6 Forest
+8 Island
+1 Mountain
+1 Volcanic Island
+1 Tropical Island
+1 Counterbalance
+1 Command Tower
+1 Sensei's Divining Top
+1 Scroll Rack
+1 Lurking Predators
+1 Simic Growth Chamber
+1 Simic Signet
+1 Izzet Boilerworks
+1 Izzet Signet
+1 Dragon Mage
+1 Spearbreaker Behemoth
+1 Great Whale
+1 Palinchron
+1 Oracle of Mul Daya
+1 Inferno Titan
+1 Diluvian Primordial
+1 Possibility Storm
+1 Brainstorm
+1 Arid Mesa
+1 Bloodstained Mire
+1 Life from the Loam
+1 Evolving Wilds
+1 Desolate Lighthouse
+1 Somberwald Sage
+1 Kodama's Reach
+1 Sakura-Tribe Elder
+1 Venser, Shaper Savant
+1 Glen Elendra Archmage
+1 Capsize
+1 Cyclonic Rift
+1 Steam Vents
+1 Temple of the False God
+1 Breeding Pool
+1 Skyshroud Claim
+1 Harrow
+1 Myriad Landscape
+1 Stomping Ground
+1 Scavenging Ooze
+1 Chaos Warp
+1 Atarka, World Render
+1 Spelljack
+1 Food Chain
+1 Greater Good
+1 Perplexing Chimera
+1 Chromatic Lantern
+1 Gilded Lotus
+1 Thran Dynamo
+1 Phyrexian Metamorph
+1 Clever Impersonator
+1 Erratic Portal
+1 Crystal Shard
+1 Jace, the Mind Sculptor
+1 Tezzeret the Seeker
+1 Sol Ring
+1 Deadeye Navigator
+1 Coalition Relic
+1 Frantic Search
+1 Mind's Desire
+1 Time Spiral
+1 Curfew
+1 Eternal Witness
+1 Lotus Bloom
+1 Evacuation
+1 Sneak Attack
+1 Taiga
+1 Sword of Feast and Famine
+1 Cinder Glade
+1 Greenwarden of Murasa
+1 Sphinx of Uthuun
+1 Elderscale Wurm
+1 Thragtusk
+1 Misty Rainforest
+1 Ancient Tomb
+1 Sphinx Ambassador
+1 Mind Stone
+1 Gruul Signet
+1 Gruul Turf
+1 Cunning Wish
+1 Sylvan Library
+1 Wooded Foothills
+1 Phantasmal Image
+1 Teferi, Mage of Zhalfir
+SB: 1 Maelstrom Wanderer
+SB: 1 Seedtime
+SB: 1 Pact of Negation
+SB: 1 Worldly Tutor
+SB: 1 Red Elemental Blast
+SB: 1 Comet Storm
+SB: 1 Volcanic Fallout
+SB: 1 Stifle
